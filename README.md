@@ -1,5 +1,3 @@
-![Header](https://avatars.githubusercontent.com/u/128342524?v=4)
-
 # Saurav Phuyal | Tech Geek 💻
 Living in the digital realm, mastering every code and circuit. Always tuned in and tuned up. 🚀
 
@@ -41,7 +39,7 @@ Check out my projects on [My Portfolio](https://saurav-phuyal.com.np/portfolio)
 Check out my latest posts on my [Blog](https://saurav-phuyal.com.np/posts)
 
 ## 📊 GitHub Stats
-![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauravz&show_icons=true&theme=radical)
+![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurav-z&show_icons=true&theme=radical)
 
 ## ⚡ Fun Fact
 I am always into tech and coding, constantly exploring new technologies and innovations.
