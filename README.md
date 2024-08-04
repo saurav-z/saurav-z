@@ -3,7 +3,7 @@ Living in the digital realm, mastering every code and circuit. Always tuned in a
 
 ## About Me
 - **Freelancer, and Part-time IT Professional**
-- **Specializing in**: Software Development, AI Development, and more.
+- **Specializing in**: Software Development, Hardware, Networking, Ethical Hacking, AI Development, and much more.
 - **Based in**: Kathmandu, Nepal
 
 ## Tech Stack
