@@ -1,10 +1,25 @@
 # Saurav Phuyal | Tech Geek 💻
 Living in the digital realm, mastering every code and circuit. Always tuned in and tuned up. 🚀
 
-## About Me
-- **Freelancer, and Part-time IT Professional**
-- **Specializing in**: Software Development, Hardware, Networking, Ethical Hacking, AI Development, and much more.
-- **Based in**: Kathmandu, Nepal
+ 
+## 🧠 About Me
+ 
+```yaml
+name       : Saurav Phuyal
+role       : Freelancer & Part-time IT Professional
+location   : Kathmandu, Nepal 🇳🇵
+website    : https://saurav-phuyal.com.np
+passion    : Living in the digital realm, mastering every code and circuit
+specialties:
+  - Software Development
+  - Hardware & Networking
+  - Ethical Hacking
+  - AI Development
+  - DevOps
+  - And much more...
+status     : Always tuned in and tuned up ⚡
+```
+ 
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
@@ -25,6 +40,7 @@ Living in the digital realm, mastering every code and circuit. Always tuned in a
 ![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-000?style=for-the-badge&logo=hackaday)
 ![More...](https://img.shields.io/badge/-And%20much%20more-000?style=for-the-badge)
 
+ 
 ## 🚀 Projects
 Check out my projects on [My Portfolio](https://saurav-phuyal.com.np/portfolio)
 
@@ -39,7 +55,8 @@ Check out my projects on [My Portfolio](https://saurav-phuyal.com.np/portfolio)
 Check out my latest posts on my [Blog](https://saurav-phuyal.com.np/posts)
 
 ## 📊 GitHub Stats
-![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurav-z&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saurav-z&theme=dark&card_width=500" alt="GitHub Streak" /></a>
+
 
 ## ⚡ Fun Fact
 I am always into tech and coding, constantly exploring new technologies and innovations.
